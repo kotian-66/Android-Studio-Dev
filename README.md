@@ -2,3 +2,5 @@
 
 it is really a intresting software to use.
 
+
+edit: this is writen in github website and not git.
